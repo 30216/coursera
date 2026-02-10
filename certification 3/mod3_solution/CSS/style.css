@@ -1,0 +1,18 @@
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+.navbar-nav {
+  background-color: #e3f2fd;
+}   
+.section-content {
+  background-color: #f2f2f2;
+  height: 1000px;
+  padding: 20px;
+}
